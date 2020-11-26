@@ -265,7 +265,7 @@
     TWP_Type64,                   W,	  20000,  7500
     TWP_Type89,                   W,	  20000,  7500
     TWP_XM8,                      W,	  20000,  7500
-    TWP_MiniGun,                  W,	  20000,  7500
+    TWP_MiniGun,                  W,	  1500000,  7500
 
     <Category> Optics
 
