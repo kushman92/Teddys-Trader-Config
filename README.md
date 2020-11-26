@@ -91,7 +91,7 @@
     TWP_BarrettM82,               W,	  20000,  7500
     TWP_BarrettM82Desert,         W,	  20000,  7500
     TWP_BarrettM82Snow,           W,	  20000,  7500
-    TWP_FRF2                      W,	  20000,  7500
+    TWP_FRF2,                     W,	  20000,  7500
     TWP_Kar98,                    W,	  20000,  7500
     TWP_L96A1,                    W,	  20000,  7500
     TWP_M1ASocom,                 W,	  20000,  7500
@@ -137,7 +137,7 @@
 
     TWP_AEK919,                   W,	  20000,  7500        
     TWP_Auto9,                    W,	  20000,  7500      
-    TWP_MP,7                      W,	  20000,  7500      
+    TWP_MP7,                      W,	  20000,  7500      
     TWP_MP7Eagle,                 W,	  20000,  7500     
     TWP_P90Arctic,                W,	  20000,  7500
     TWP_P90Colored,               W,	  20000,  7500
@@ -161,7 +161,7 @@
     TWP_CX4Storm,                 W,	  20000,  7500
     TWP_KacPDW,                   W,	  20000,  7500
 
-    <Category> Assault Rifles:
+    <Category> Assault Rifles
 
     TWP_ACE23,                    W,	  20000,  7500
     TWP_Ash12,                    W,	  20000,  7500
